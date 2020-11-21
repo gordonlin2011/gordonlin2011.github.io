@@ -1,4 +1,4 @@
 # sports.proprogram.net
 Pro Program Sports Web Files
 Commiting to this Website?
-Just contact me using gordon.li@proprogram.net for contributing to this Website.
+Just do a Pull Request on github and send a message to gordon.li@proprogram.net.
